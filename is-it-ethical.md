@@ -2,16 +2,24 @@
  - Serious discourse
  - Social movements
  - Institutional records
-- Growing concern over our ethical obligations
+- Serious concern over our ethical obligations
  - Show some tweets
 - Groundwork for understanding some of the ethical issues at hand
 - Social media not a monolithic thing
  - Therefore not a single solution
+ - Social media as medium with certain unique aspects (social networking), but that's not why we collect
+ - We see the content as having potential historical significance
 - Solutions
+ - We have practices in place for evaluating content that we can draw on to inform our practice
+ - Restrictions
+ - Decline collections
+ - Legal apparatus
+ - Practices for dealing with third party content present in collections
  - Existing ethical standards in our own profession [Toolkit](URL)
  - Existing literature, like medical and social sciences [@cazzerson](@cazzerson)
  - Open science and research data sharing
  - Model our approach on existing standards our universities are developing for dealing with sensitive data
+ - http://datatags.org/
 - For instance, see NC State's "Determining Sensitivity Levels for Shared Data" [https://oit.ncsu.edu/it-security/data-framework/determining-sensitivity-levels-for-shared-data/#personal](https://oit.ncsu.edu/it-security/data-framework/determining-sensitivity-levels-for-shared-data/#personal)
 
 | Factor | Color |
